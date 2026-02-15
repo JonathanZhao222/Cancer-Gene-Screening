@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Mac
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Data files (for bio projects)
+*.h5ad
+*.csv
+*.tsv
+*.zip
+*.gz
